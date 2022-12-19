@@ -31,5 +31,5 @@
             "Intervention\\Image\\Tests\\": "tests"
         }
     },
-    "minimum-stability": "alpha"
+    "minimum-stability": "dev"
 }
